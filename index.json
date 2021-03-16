@@ -1,0 +1,13 @@
+{
+  "namers": [
+    "@eirikb/parcel-namer-mustache"
+  ],
+  "transformers": {
+    "*.mustache.*": [
+      "@eirikb/parcel-transformer-mustache"
+    ]
+  },
+  "packagers": {
+    "*.mustache.*": "@parcel/packager-raw-url"
+  }
+}
