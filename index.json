@@ -1,6 +1,7 @@
 {
   "namers": [
-    "@eirikb/parcel-namer-mustache"
+    "@eirikb/parcel-namer-mustache",
+    "@parcel/namer-default"
   ],
   "transformers": {
     "*.mustache.*": [
