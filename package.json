@@ -1,11 +1,12 @@
 {
   "name": "@eirikb/parcel-config-mustache",
   "main": "index.json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "author": "Eirik Brandtzæg",
   "dependencies": {
-    "@eirikb/parcel-namer-mustache": "^0.1.1",
-    "@eirikb/parcel-transformer-mustache": "^0.1.1"
+    "@eirikb/parcel-namer-mustache": "^0.1.2",
+    "@eirikb/parcel-transformer-mustache": "^0.1.2",
+    "@parcel/namer-default": "^2.0.0-beta.2"
   }
 }
